@@ -55,3 +55,5 @@ This project implements a simple HTTP proxy server in C that handles client requ
 Special thanks to the resources and tutorials that aided in the development of this project.
 
 Feel free to open issues or submit pull requests if you find any bugs or have suggestions for improvements.
+
+For more detailed information and advanced configurations, refer to the Multithreaded Proxy Web Server in C repository [https://github.com/Lovepreet-Singh-LPSK/MultiThreadedProxyServerClient/tree/main].
